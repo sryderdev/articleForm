@@ -17,7 +17,7 @@ const App = () => {
       <Menu />
       <main>
         <Container>
-          <Route path='/' component={HomePage} exact />
+          <Route path='/articleForm' component={HomePage} exact />
           <Route path='/about' component={AboutPage} />
         </Container>
       </main>

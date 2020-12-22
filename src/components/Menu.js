@@ -6,7 +6,7 @@ const Menu = () => {
     <>
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
-          <LinkContainer to='/'>
+          <LinkContainer to='/articleForm'>
             <Navbar.Brand>ChrisDev Blog</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
