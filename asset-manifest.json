@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/articleForm/static/css/main.6ef493a9.chunk.css",
+    "main.js": "/articleForm/static/js/main.b9c7d97f.chunk.js",
+    "main.js.map": "/articleForm/static/js/main.b9c7d97f.chunk.js.map",
+    "runtime-main.js": "/articleForm/static/js/runtime-main.04d4ac74.js",
+    "runtime-main.js.map": "/articleForm/static/js/runtime-main.04d4ac74.js.map",
+    "static/js/2.c61ec70b.chunk.js": "/articleForm/static/js/2.c61ec70b.chunk.js",
+    "static/js/2.c61ec70b.chunk.js.map": "/articleForm/static/js/2.c61ec70b.chunk.js.map",
+    "static/js/3.14a27dd1.chunk.js": "/articleForm/static/js/3.14a27dd1.chunk.js",
+    "static/js/3.14a27dd1.chunk.js.map": "/articleForm/static/js/3.14a27dd1.chunk.js.map",
+    "index.html": "/articleForm/index.html",
+    "static/css/main.6ef493a9.chunk.css.map": "/articleForm/static/css/main.6ef493a9.chunk.css.map",
+    "static/js/2.c61ec70b.chunk.js.LICENSE.txt": "/articleForm/static/js/2.c61ec70b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d4ac74.js",
+    "static/js/2.c61ec70b.chunk.js",
+    "static/css/main.6ef493a9.chunk.css",
+    "static/js/main.b9c7d97f.chunk.js"
+  ]
+}
